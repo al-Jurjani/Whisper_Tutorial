@@ -14,7 +14,7 @@ To avoid the need for powerful local hardware, this entire project was developed
 
 ## What is Whisper?
 
-Whisper is an automatic speech recognition system developed by OpenAI. It was trained on a massive and diverse dataset of audio, enabling it to accurately transcribe speech from various languages, accents, and even noisy environments. [1]
+Whisper is an automatic speech recognition system developed by OpenAI. It was trained on a massive and diverse dataset of audio, enabling it to accurately transcribe speech from various languages, accents, and even noisy environments.
 
 ## Process Summary
 
